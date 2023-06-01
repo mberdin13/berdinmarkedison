@@ -102,6 +102,12 @@ ul.social-links li a img {
   max-height: 30px;
 }
 
+.main-nav img{
+  position: absolute;
+  width: 300px;
+  top:-100%;
+  right: 150%;
+}
 
 /* Case study */
 .case-study .col-md-12 {
